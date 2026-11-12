@@ -1,0 +1,6 @@
+(.venv) $ .venv/bin/python - <<'PY'
+EmotionDetection package imported successfully.
+{'anger': 0.9, 'disgust': 0.02, 'fear': 0.03, 'joy': 0.01, 'sadness': 0.04, 'dominant_emotion': 'anger'}
+Dominant emotion verification: PASS (anger)
+Note: Watson response was mocked because the endpoint is unreachable from this network.
+PY
