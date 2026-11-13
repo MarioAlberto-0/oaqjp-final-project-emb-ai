@@ -1,0 +1,6 @@
+emotion_detector output:
+{'anger': 0.1, 'disgust': 0.2, 'fear': 0.3, 'joy': 0.9, 'sadness': 0.4, 'dominant_emotion': 'joy'}
+Output format test: PASS
+
+Verification note: Watson was mocked because its endpoint was unreachable
+from the local network during testing.

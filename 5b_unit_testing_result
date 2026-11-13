@@ -1,0 +1,9 @@
+$ .venv/bin/python test_emotion_detection.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.002s
+
+OK
+
+Note: Watson responses were mocked; these unit tests validate the package
+parsing and dominant-emotion logic without depending on network availability.
